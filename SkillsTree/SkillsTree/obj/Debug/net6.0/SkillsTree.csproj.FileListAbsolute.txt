@@ -1,0 +1,12 @@
+D:\RiderProjects\SkillsTree\SkillsTree\bin\Debug\net6.0\SkillsTree.deps.json
+D:\RiderProjects\SkillsTree\SkillsTree\bin\Debug\net6.0\SkillsTree.dll
+D:\RiderProjects\SkillsTree\SkillsTree\bin\Debug\net6.0\SkillsTree.pdb
+D:\RiderProjects\SkillsTree\SkillsTree\obj\Debug\net6.0\SkillsTree.csproj.AssemblyReference.cache
+D:\RiderProjects\SkillsTree\SkillsTree\obj\Debug\net6.0\SkillsTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProjects\SkillsTree\SkillsTree\obj\Debug\net6.0\SkillsTree.AssemblyInfoInputs.cache
+D:\RiderProjects\SkillsTree\SkillsTree\obj\Debug\net6.0\SkillsTree.AssemblyInfo.cs
+D:\RiderProjects\SkillsTree\SkillsTree\obj\Debug\net6.0\SkillsTree.csproj.CoreCompileInputs.cache
+D:\RiderProjects\SkillsTree\SkillsTree\obj\Debug\net6.0\SkillsTree.dll
+D:\RiderProjects\SkillsTree\SkillsTree\obj\Debug\net6.0\refint\SkillsTree.dll
+D:\RiderProjects\SkillsTree\SkillsTree\obj\Debug\net6.0\SkillsTree.pdb
+D:\RiderProjects\SkillsTree\SkillsTree\obj\Debug\net6.0\ref\SkillsTree.dll
